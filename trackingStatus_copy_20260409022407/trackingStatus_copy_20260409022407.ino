@@ -1,7 +1,4 @@
-// ====================================================================
-// KEYCHAIN EMERGENCY DEVICE - FIXED DOUBLE-PRESS DETECTION
-// XIAO ESP32-C3 + Neo-6M GPS
-// ====================================================================
+//=====THESIS ARDUINO CODE======
 
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
